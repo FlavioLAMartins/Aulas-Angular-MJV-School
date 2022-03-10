@@ -1,0 +1,12 @@
+footer {
+  display:flex;
+  width: 100vw;
+  align-items:center;
+  flex-direction:column;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(81, 146, 172);
+  padding:10px 0;
+  color: white;
+  position: absolute;
+  bottom: 0;
+}

@@ -1,0 +1,21 @@
+nav {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  width: 100%;
+  height: 8vh;
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+  background-color: rgb(81, 146, 172);
+  color: white;
+
+  ul {
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+  }
+  li {
+    list-style-type: none;
+  }
+
+}
+

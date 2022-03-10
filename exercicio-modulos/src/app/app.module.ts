@@ -2,18 +2,17 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { HomeModule } from './features/home/home.module';
+import { CollaboratorsModule } from './features/collaborators/collaborators.module';
 import { SharedModule } from './shared/shared.module';
-
 
 @NgModule({
   declarations: [
-    AppComponent,
+    AppComponent
   ],
   imports: [
     BrowserModule,
     SharedModule,
-    HomeModule
+    CollaboratorsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
