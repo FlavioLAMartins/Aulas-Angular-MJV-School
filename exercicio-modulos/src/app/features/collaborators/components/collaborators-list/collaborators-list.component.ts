@@ -16,7 +16,7 @@ export class CollaboratorsListComponent implements OnInit {
     { id: 6, nome: 'Gabriel Miguel', salario: 9500, cargo: 'Dev Sr' },
     { id: 7, nome: 'Alan Jhonnes', salario: 11000, cargo: 'Arquiteto' }
   ];
-  collaborator = { id: 7, nome: 'Nathan Carlos', salario: 7000, cargo: 'Dev Pl' }
+  collaborator = { id: 7, nome: 'Flávio Martins', salario: 20000, cargo: 'Dev Sr' }
   constructor() { }
 
   ngOnInit(): void {
