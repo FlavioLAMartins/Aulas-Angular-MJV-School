@@ -6,6 +6,7 @@ import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { ConteudoPrincipalComponent } from './conteudo-principal/conteudo-principal.component';
 import { SectionLoremComponent } from './section-lorem/section-lorem.component';
+import { ConteudoSecundarioComponent } from './conteudo-secundario/conteudo-secundario.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +14,8 @@ import { SectionLoremComponent } from './section-lorem/section-lorem.component';
     HeaderComponent,
     FooterComponent,
     ConteudoPrincipalComponent,
-    SectionLoremComponent
+    SectionLoremComponent,
+    ConteudoSecundarioComponent
   ],
   imports: [
     BrowserModule
