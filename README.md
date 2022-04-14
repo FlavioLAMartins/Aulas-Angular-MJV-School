@@ -2,7 +2,7 @@
 
 ## Repositório para as aulas e exercicios realizados durante a MJV School Angular&NodeJS
 
-### Conteudos 
+### Conteúdos 
 - Componentes;
 - Módulos;
 - Data Binding;
